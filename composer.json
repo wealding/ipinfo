@@ -1,0 +1,24 @@
+{
+    "name": "ipinfo",
+    "type": "library",
+    "description": "get ipinfo from ipipfreedb and qqwry.",
+    "keywords": ["ipinfo","ipipfreedb","qqwry","ipip.net","geoip","geolocation", "geo","ip","ipdb"],
+    "homepage": "https://allji.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dingtest",
+            "email": "test@gong.si",
+            "homepage": "https://allji.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "ipip/db": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ding\\ipinfo\\": "src/"
+        }
+    }
+}
