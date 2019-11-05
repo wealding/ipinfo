@@ -1,5 +1,5 @@
 {
-    "name": "ding/ipinfo",
+    "name": "wealding/ipinfo",
     "type": "library",
     "description": "get ipinfo from ipipfreedb and qqwry.",
     "keywords": ["ipinfo","ipipfreedb","qqwry","ipip.net","geoip","geolocation", "geo","ip","ipdb"],
